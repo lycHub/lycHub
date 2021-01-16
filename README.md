@@ -1,6 +1,9 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+</div>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-前端码农，转行3年，自学成才，上可手撸UI库，下可cv平bug
+前端码农，自学成才，上可手撸UI库，下可cv平bug
 
 - 🚀 I use daily:
  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
@@ -14,6 +17,9 @@
 [![lycHub's github stats](https://github-readme-stats.vercel.app/api?username=lycHub&theme=dark&show_icons=true)](https://github.com/lycHub)
 
 
-# 教程博客
+### 教程博客
 - [Angular和Vue视频教程](https://space.bilibili.com/142925973/video)
 - [SegmentFault专栏](https://segmentfault.com/blog/madao)
+
+### Follwers
+[@lycHub](https://github.com/lycHub)
