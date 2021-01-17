@@ -20,6 +20,3 @@
 ### 教程博客
 - [Angular和Vue视频教程](https://space.bilibili.com/142925973/video)
 - [SegmentFault专栏](https://segmentfault.com/blog/madao)
-
-### Follwers
-[@lycHub](https://github.com/lycHub)
