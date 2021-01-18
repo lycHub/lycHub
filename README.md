@@ -5,7 +5,7 @@
 
 前端码农，自学成才，上可手撸UI库，下可cv平bug
 
-- 🚀 I use daily:
+- 🚀 use daily:
  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic&logo=typescript)
  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
