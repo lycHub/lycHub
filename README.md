@@ -13,6 +13,7 @@
  ![Webpack](https://img.shields.io/badge/-Webpack-black?style=plastic&logo=webpack)
  ![Angular](https://img.shields.io/badge/-Angular-3b2e5a?style=plastic&logo=angular)
  ![Vue](https://img.shields.io/badge/-Vue-3b2e5a?style=plastic&logo=vue)
+ ![Gulp](https://img.shields.io/badge/-Gulp-3b2e5a?style=plastic&logo=gulp)
  
 [![lycHub's github stats](https://github-readme-stats.vercel.app/api?username=lycHub&theme=dark&show_icons=true)](https://github.com/lycHub)
 
