@@ -19,5 +19,5 @@
 
 
 ### 教程博客
-- [Angular和Vue视频教程](https://space.bilibili.com/142925973/video)
+- [Angular等视频教程](ysx-videos.netlify.app)
 - [SegmentFault专栏](https://segmentfault.com/blog/madao)
