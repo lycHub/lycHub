@@ -3,8 +3,6 @@
 </div>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-前端码农，自学成才，上可手撸UI库，下可cv平bug
-
 - 🚀 use daily:
  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic&logo=typescript)
