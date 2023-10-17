@@ -17,5 +17,5 @@
 
 
 ### 教程博客
-- [Angular等视频教程](ysx-videos.netlify.app)
+- [Angular等视频教程](https://madom.gitee.io/ysx-videos)
 - [SegmentFault专栏](https://segmentfault.com/blog/madao)
