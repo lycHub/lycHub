@@ -17,5 +17,5 @@
 
 
 ### 教程博客
-- [Angular等视频教程](https://madom.gitee.io/ysx-videos)
+- [Angular等视频教程](https://lychub.github.io/ysx-videos/)
 - [SegmentFault专栏](https://segmentfault.com/blog/madao)
