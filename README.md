@@ -17,5 +17,5 @@
 
 
 ### 教程博客
-- [Angular等视频教程](https://lychub.github.io/ysx-videos/)
+- [Angular等视频教程](https://space.bilibili.com/142925973?spm_id_from=666.25.0.0)
 - [SegmentFault专栏](https://segmentfault.com/blog/madao)
